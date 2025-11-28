@@ -109,5 +109,5 @@ These insights allow insurers to refine pricing, improve risk scoring, and desig
 ---
 
 - **/Dashboard/** – 
-![Insurance Dashboard Page 1](images/insurance_page1.png)
+![Insurance Dashboard Page 1](images/https://github.com/Keerthana-Hemarao/Insurance-Risks-Claim-Analysis-Dashboard/blob/42875984243250e3f21c73e7debfc8821f3836f8/Insurance%20Risks%20%26%20Claim%20Analysis%20Report.png)
 
